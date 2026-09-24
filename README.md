@@ -192,6 +192,9 @@ The fitted coefficients are interpreted as conditional model contributions rathe
 
 ## Interactive explorer
 
+**Live demo:** https://fragilemap-sc.streamlit.app
+
+
 A small Streamlit interface is included for interactive exploration of the fitted U2OS logistic-regression models.
 
 The interface allows users to:
