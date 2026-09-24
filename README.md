@@ -207,4 +207,187 @@ To start the application:
 
 ```bash
 python -m streamlit run app.py
+
+```
+
+---
+
+## Final figures
+
+The main figure set is stored in:
+
+```text
 results/figures/final/main/
+```
+
+Main figures:
+
+1. Replication-timing class distribution
+2. U2OS recurrence × replication timing
+3. Break-region width by recurrence
+4. Width-adjusted cross-cell-line overlap
+5. Chromosome-level break-density heatmap
+6. U2OS genomic-feature recurrence signature
+7. Predictive-model cross-validation performance
+
+A midpoint-distance analysis is retained as a supporting figure.
+
+---
+
+## Reproducible workflow
+
+The analysis is organized into sequential scripts:
+
+```text
+scripts/
+├── 01_prepare_break_regions.py
+├── 02_integrate_replication_timing.py
+├── 03_replication_timing_analysis.py
+├── 04_crossline_overlap_analysis.py
+├── 05_break_region_width_analysis.py
+├── 06_chromosome_landscape.py
+├── 07_integrate_u2os_multifeature.py
+├── 08_u2os_multifeature_analysis.py
+├── 09_final_qc.py
+├── 10_u2os_logistic_ml.py
+├── 11_plot_ml_performance.py
+├── 12_fit_final_ml_models.py
+└── 13_finalize_project_summary.py
+```
+
+Run the full workflow with:
+
+```bash
+./run_pipeline.sh
+```
+
+---
+
+## Quality control
+
+Automated QC checks cover:
+
+- expected break-region counts,
+- total break-event counts,
+- duplicate intervals,
+- genomic-coordinate validity,
+- recurrence-label consistency,
+- break-region width consistency,
+- replication-timing coverage,
+- RT-class validity,
+- cross-cell-line overlap and edge distances,
+- U2OS genomic-feature coverage,
+- and key statistical outputs.
+
+The final pipeline QC reports:
+
+**30 checks passed, 0 failed.**
+
+---
+
+## Installation
+
+A project-specific Python environment is recommended:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+```
+
+---
+
+## Project structure
+
+```text
+fragilemap_sc/
+├── app.py
+├── run_pipeline.sh
+├── requirements.txt
+├── README.md
+├── data/
+│   ├── raw/
+│   └── processed/
+├── docs/
+├── models/
+├── scripts/
+└── results/
+    ├── figures/
+    │   └── final/
+    │       ├── main/
+    │       └── supporting/
+    └── tables/
+```
+
+---
+
+## Data provenance
+
+This project uses processed supplementary data associated with:
+
+**Single-cell mapping of chromosome breaks identifies multiple fragile site classes with distinct DNA replication timing landscapes**
+
+DOI: `10.1038/s41467-026-76451-1`
+
+GEO accession: `GSE310972`
+
+Raw sequencing files were not required for this analysis.
+
+The supplementary Excel files are excluded from version control and should be placed in:
+
+```text
+data/raw/
+```
+
+before running the complete preprocessing pipeline.
+
+---
+
+## Limitations
+
+- Break-region recurrence depends on the interval definitions provided in the source data.
+- Recurrent regions are substantially wider than single-occurrence regions; part of this difference may reflect interval construction or merging.
+- Cross-cell-line overlap is influenced by interval width, motivating width-adjusted sensitivity analyses.
+- Chromosome-level density uses full hg19 chromosome length rather than callable or mappability-adjusted sequence length.
+- Chromosome-level correlation analyses contain only 22–24 chromosome-level observations.
+- Break regions are treated as independent observations in logistic-regression analyses.
+- Genomic features are summarized using overlap-length weighted means.
+- The U2OS predictive dataset contains 195 regions, including 44 recurrent regions.
+- Predictive-model scores are exploratory and are not externally validated or calibrated biological probabilities.
+- Observed associations do not establish causal mechanisms.
+
+---
+
+## Tools
+
+The workflow uses:
+
+- Python
+- pandas
+- NumPy
+- SciPy
+- statsmodels
+- scikit-learn
+- matplotlib
+- openpyxl
+- Streamlit
+
+The project was developed and tested on Linux.
+
+---
+
+## Scope
+
+This repository is an independent portfolio analysis built from publicly available processed data.
+
+It demonstrates:
+
+- reproducible bioinformatics workflow design,
+- genomic interval integration,
+- statistical analysis,
+- sensitivity analysis,
+- interpretable predictive modeling,
+- scientific visualization,
+- automated quality control,
+- and explicit documentation of analytical limitations.
+
