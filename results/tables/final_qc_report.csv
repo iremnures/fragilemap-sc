@@ -1,0 +1,31 @@
+check,status,observed,expected
+Total human break regions,PASS,644,644
+U2OS unique break regions,PASS,195,195
+RPE1 unique break regions,PASS,284,284
+BJ unique break regions,PASS,165,165
+U2OS total break events,PASS,274,274
+RPE1 total break events,PASS,434,434
+BJ total break events,PASS,244,244
+Duplicate genomic intervals,PASS,0,0
+Invalid coordinates,PASS,0,0
+Recurrent flag consistency,PASS,0,0
+Region width consistency,PASS,0,0
+RT dataset row count,PASS,644,644
+Missing RT values,PASS,0,0
+RT classes,PASS,"['Early', 'Late', 'Mid']","['Early', 'Late', 'Mid']"
+Cross-line dataset row count,PASS,644,644
+Negative edge distances,PASS,0,0
+Overlap implies edge distance = 0,PASS,0,0
+Total cross-line overlaps,PASS,147,147
+U2OS multifeature row count,PASS,195,195
+rt_slope_untreated coverage,PASS,195,195
+midas coverage,PASS,195,195
+lateS_G2M coverage,PASS,195,195
+ab_compartment coverage,PASS,193,193
+gro_seq coverage,PASS,194,194
+fancd2 coverage,PASS,195,195
+drip_seq coverage,PASS,195,195
+g_quadruplex coverage,PASS,195,195
+ns_seq coverage,PASS,195,195
+U2OS significant feature set,PASS,"['fancd2', 'lateS_G2M', 'midas']","['fancd2', 'lateS_G2M', 'midas']"
+U2OS width-adjusted overlap OR,PASS,6.1885,approximately 6.19

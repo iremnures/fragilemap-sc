@@ -1,0 +1,2 @@
+test,comparison,chi_square,df,p_value,minimum_expected_count
+Chi-square,U2OS vs RPE1 vs BJ,10.748864559379149,4,0.029536241424845535,50.72981366459627

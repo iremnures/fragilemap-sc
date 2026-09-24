@@ -1,0 +1,4 @@
+dataset,comparison,n_chromosomes,spearman_rho,p_value
+All primary chromosomes,U2OS vs RPE1,24,0.03913043478260869,0.855947935071337
+All primary chromosomes,U2OS vs BJ,24,-0.10002174622185106,0.641920460984511
+All primary chromosomes,RPE1 vs BJ,24,0.2509241198696003,0.2369328666395451

@@ -1,0 +1,391 @@
+model,row_id,true_recurrent,predicted_probability,predicted_class
+Genomic features only,0,1,0.9896652600055869,1
+Genomic features only,1,0,0.5562073326215132,1
+Genomic features only,2,1,0.405899353749202,0
+Genomic features only,3,0,0.3557749234930224,0
+Genomic features only,4,0,0.4841050852871091,0
+Genomic features only,5,0,0.3587963794987724,0
+Genomic features only,6,0,0.9324686031442515,1
+Genomic features only,7,0,0.275722061528728,0
+Genomic features only,8,0,0.37810147568612945,0
+Genomic features only,9,1,0.6004003989930713,1
+Genomic features only,10,0,0.35818405946421533,0
+Genomic features only,11,0,0.47889527143031463,0
+Genomic features only,12,0,0.33626652443178123,0
+Genomic features only,13,0,0.5881611975337196,1
+Genomic features only,14,0,0.2632494563134808,0
+Genomic features only,15,0,0.26430899857566265,0
+Genomic features only,16,0,0.2593982973657375,0
+Genomic features only,17,1,0.20010200627914165,0
+Genomic features only,18,0,0.3685955491584456,0
+Genomic features only,19,0,0.4867157658488571,0
+Genomic features only,20,1,0.7873591279606378,1
+Genomic features only,21,0,0.6707643382283259,1
+Genomic features only,22,1,0.8748615090668952,1
+Genomic features only,23,1,0.2712872896409595,0
+Genomic features only,24,1,0.307151059899051,0
+Genomic features only,25,0,0.34664737171420046,0
+Genomic features only,26,0,0.34658895806126666,0
+Genomic features only,27,0,0.41250258195570255,0
+Genomic features only,28,1,0.3252409346868436,0
+Genomic features only,29,0,0.6719633421224036,1
+Genomic features only,30,0,0.34403919986503056,0
+Genomic features only,31,0,0.34570421846471155,0
+Genomic features only,32,0,0.27547024497766,0
+Genomic features only,33,0,0.5298758128992758,1
+Genomic features only,34,0,0.3894857902049506,0
+Genomic features only,35,0,0.38444175198051467,0
+Genomic features only,36,0,0.40268062867533405,0
+Genomic features only,37,0,0.23106772936325623,0
+Genomic features only,38,0,0.4183752765636814,0
+Genomic features only,39,0,0.2556099356107906,0
+Genomic features only,40,0,0.8743685053030745,1
+Genomic features only,41,1,0.4974101202386103,0
+Genomic features only,42,0,0.4129199021352073,0
+Genomic features only,43,0,0.37104822902818874,0
+Genomic features only,44,1,0.15602107882181684,0
+Genomic features only,45,1,0.31415617863147105,0
+Genomic features only,46,0,0.251897919893967,0
+Genomic features only,47,0,0.5078865591158157,1
+Genomic features only,48,0,0.5762036537954779,1
+Genomic features only,49,0,0.9936099421916736,1
+Genomic features only,50,0,0.11292428621737059,0
+Genomic features only,51,0,0.18624929854742805,0
+Genomic features only,52,0,0.276489707624436,0
+Genomic features only,53,0,0.15738877047829697,0
+Genomic features only,54,0,0.27889440323037074,0
+Genomic features only,55,0,0.3286603722790445,0
+Genomic features only,56,0,0.33918951876490067,0
+Genomic features only,57,1,0.6348037971897329,1
+Genomic features only,58,1,0.39487483776791643,0
+Genomic features only,59,0,0.3880432697429198,0
+Genomic features only,60,0,0.554756734872288,1
+Genomic features only,61,1,0.9194038008523319,1
+Genomic features only,62,0,0.38228045200075095,0
+Genomic features only,63,1,0.830982072686698,1
+Genomic features only,64,0,0.4604114340548265,0
+Genomic features only,65,0,0.6037706790824573,1
+Genomic features only,66,0,0.3014248670273357,0
+Genomic features only,67,1,0.324557310591692,0
+Genomic features only,68,1,0.3815879526384635,0
+Genomic features only,69,0,0.2928295982743804,0
+Genomic features only,70,0,0.8944715009988801,1
+Genomic features only,71,0,0.3867259164386511,0
+Genomic features only,72,1,0.8838017172728574,1
+Genomic features only,73,0,0.394661138202471,0
+Genomic features only,74,1,0.2655898315094097,0
+Genomic features only,75,0,0.21524011583119237,0
+Genomic features only,76,0,0.46091011600346193,0
+Genomic features only,77,0,0.34919771592044135,0
+Genomic features only,78,1,0.8720029883035365,1
+Genomic features only,79,0,0.4849273874734989,0
+Genomic features only,80,0,0.2463221462109104,0
+Genomic features only,81,0,0.512780568477813,1
+Genomic features only,82,0,0.4652239570650885,0
+Genomic features only,83,0,0.5908788239930373,1
+Genomic features only,84,1,0.05266071512373097,0
+Genomic features only,85,0,0.36073722059672825,0
+Genomic features only,86,0,0.5561641616434756,1
+Genomic features only,87,0,0.4475089882419508,0
+Genomic features only,88,1,0.46924584875691566,0
+Genomic features only,89,0,0.5104341034714129,1
+Genomic features only,90,0,0.3664808790260763,0
+Genomic features only,91,1,0.837273602342202,1
+Genomic features only,92,0,0.499677315871004,0
+Genomic features only,93,0,0.764873779934947,1
+Genomic features only,94,0,0.4525578142370072,0
+Genomic features only,95,1,0.2614837021461931,0
+Genomic features only,96,0,0.22195227325133962,0
+Genomic features only,97,0,0.44519117252628326,0
+Genomic features only,98,0,0.30057409853338374,0
+Genomic features only,99,0,0.4630300753611765,0
+Genomic features only,100,0,0.3413484709517885,0
+Genomic features only,101,1,0.7108518549002806,1
+Genomic features only,102,0,0.3109680848606088,0
+Genomic features only,103,0,0.38559263385408105,0
+Genomic features only,104,0,0.25803118407048314,0
+Genomic features only,105,0,0.21757310228284255,0
+Genomic features only,106,0,0.11794866425439562,0
+Genomic features only,107,0,0.27539100388896504,0
+Genomic features only,108,0,0.34334663294415196,0
+Genomic features only,109,0,0.3746159039071943,0
+Genomic features only,110,0,0.4149515693879458,0
+Genomic features only,111,1,0.5699890289003234,1
+Genomic features only,112,0,0.4117015628449073,0
+Genomic features only,113,0,0.7657030359231837,1
+Genomic features only,114,0,0.2038207530850842,0
+Genomic features only,115,0,0.8606668574019887,1
+Genomic features only,116,1,0.42366659525535993,0
+Genomic features only,117,0,0.4032808098909918,0
+Genomic features only,118,0,0.8024103814698458,1
+Genomic features only,119,0,0.3492257162030385,0
+Genomic features only,120,0,0.3952638276840066,0
+Genomic features only,121,0,0.4083898547640811,0
+Genomic features only,122,1,0.9674999646469952,1
+Genomic features only,123,0,0.5162777131560446,1
+Genomic features only,124,0,0.5526148170492103,1
+Genomic features only,125,1,0.7319140281371249,1
+Genomic features only,126,0,0.6022466464754852,1
+Genomic features only,127,0,0.12123228715795345,0
+Genomic features only,128,0,0.3618632504021219,0
+Genomic features only,129,0,0.31929335104463386,0
+Genomic features only,130,0,0.29712500487058463,0
+Genomic features only,131,0,0.42101403526861414,0
+Genomic features only,132,1,0.004524804559833316,0
+Genomic features only,133,1,0.323084137590576,0
+Genomic features only,134,0,0.4839094414275253,0
+Genomic features only,135,0,0.0677308270744353,0
+Genomic features only,136,0,0.1918191201379013,0
+Genomic features only,137,0,0.9056486938823156,1
+Genomic features only,138,0,0.3675988102279865,0
+Genomic features only,139,1,0.7620560990535358,1
+Genomic features only,140,0,0.32857588783923414,0
+Genomic features only,141,0,0.22047105240827705,0
+Genomic features only,142,0,0.3173469227165197,0
+Genomic features only,143,0,0.26525480482546065,0
+Genomic features only,144,0,0.22068307903931744,0
+Genomic features only,145,0,0.2821837254246368,0
+Genomic features only,146,0,0.08041834977653606,0
+Genomic features only,147,0,0.2871440201255867,0
+Genomic features only,148,1,0.7569401924092862,1
+Genomic features only,149,0,0.3380071195074963,0
+Genomic features only,150,0,0.1055515474744878,0
+Genomic features only,151,0,0.8755791539567467,1
+Genomic features only,152,0,0.38962616626764285,0
+Genomic features only,153,1,0.6870640281917272,1
+Genomic features only,154,0,0.4011171599012267,0
+Genomic features only,155,0,0.4874190605401778,0
+Genomic features only,156,1,0.7909849260526101,1
+Genomic features only,157,1,0.2348708340781308,0
+Genomic features only,158,0,0.28509118728066923,0
+Genomic features only,159,0,0.024486877325463327,0
+Genomic features only,160,1,0.9145092397261304,1
+Genomic features only,161,1,0.5656594445761502,1
+Genomic features only,162,0,0.3462838973388342,0
+Genomic features only,163,0,0.23068983115401978,0
+Genomic features only,164,0,0.7162850747854048,1
+Genomic features only,165,0,0.45637954650154866,0
+Genomic features only,166,1,0.32315656278936317,0
+Genomic features only,167,0,0.2253509320966272,0
+Genomic features only,168,0,0.21920405647031696,0
+Genomic features only,169,0,0.13680927002892185,0
+Genomic features only,170,0,0.3121947371290962,0
+Genomic features only,171,0,0.5880554156092537,1
+Genomic features only,172,0,0.27176755039777256,0
+Genomic features only,173,1,0.27123876657904233,0
+Genomic features only,174,0,0.36768187448450396,0
+Genomic features only,175,0,0.48901287214772804,0
+Genomic features only,176,0,0.4485619203427306,0
+Genomic features only,177,0,0.6257338020594798,1
+Genomic features only,178,0,0.32365894692752817,0
+Genomic features only,179,0,0.33646407319561167,0
+Genomic features only,180,0,0.24412896257597652,0
+Genomic features only,181,0,0.47261654781967094,0
+Genomic features only,182,0,0.8528810182053165,1
+Genomic features only,183,0,0.881156523074047,1
+Genomic features only,184,1,0.3203838928146117,0
+Genomic features only,185,0,0.152034425132589,0
+Genomic features only,186,1,0.9724135215174713,1
+Genomic features only,187,0,0.5155644129230617,1
+Genomic features only,188,0,0.28662172883517567,0
+Genomic features only,189,0,0.5231888794343976,1
+Genomic features only,190,0,0.7337075268854308,1
+Genomic features only,191,0,0.3096337778805334,0
+Genomic features only,192,0,0.977433841372893,1
+Genomic features only,193,1,0.9623242130971031,1
+Genomic features only,194,0,0.9900223589803733,1
+Genomic features + width,0,1,0.9795510087886349,1
+Genomic features + width,1,0,0.15469944953425377,0
+Genomic features + width,2,1,0.27986995487003524,0
+Genomic features + width,3,0,0.113766919798559,0
+Genomic features + width,4,0,0.019806321476062067,0
+Genomic features + width,5,0,0.3439392771590562,0
+Genomic features + width,6,0,0.4870839143969016,0
+Genomic features + width,7,0,0.1985305258931449,0
+Genomic features + width,8,0,0.2839459919256948,0
+Genomic features + width,9,1,0.602593192659099,1
+Genomic features + width,10,0,0.34220795824739625,0
+Genomic features + width,11,0,0.5677534092107293,1
+Genomic features + width,12,0,0.0846142637854737,0
+Genomic features + width,13,0,0.4815016397952159,0
+Genomic features + width,14,0,0.02708897309685988,0
+Genomic features + width,15,0,0.09602463831416619,0
+Genomic features + width,16,0,0.05581678112096941,0
+Genomic features + width,17,1,0.47858388920310196,0
+Genomic features + width,18,0,0.5020382978090429,1
+Genomic features + width,19,0,0.2857100757884491,0
+Genomic features + width,20,1,0.924552165546142,1
+Genomic features + width,21,0,0.4724724948829595,0
+Genomic features + width,22,1,0.903761433700488,1
+Genomic features + width,23,1,0.30001317172693004,0
+Genomic features + width,24,1,0.7681164931325197,1
+Genomic features + width,25,0,0.4870010696723632,0
+Genomic features + width,26,0,0.3087092112995542,0
+Genomic features + width,27,0,0.029297276295488783,0
+Genomic features + width,28,1,0.5048951649641562,1
+Genomic features + width,29,0,0.5665204337393553,1
+Genomic features + width,30,0,0.32327212217953305,0
+Genomic features + width,31,0,0.41434102546762214,0
+Genomic features + width,32,0,0.00641503838881362,0
+Genomic features + width,33,0,0.5281895924976374,1
+Genomic features + width,34,0,0.3904512011694388,0
+Genomic features + width,35,0,0.5252047044059267,1
+Genomic features + width,36,0,0.13992668362610414,0
+Genomic features + width,37,0,0.2240994064905639,0
+Genomic features + width,38,0,0.15308039922020833,0
+Genomic features + width,39,0,0.3158772120634071,0
+Genomic features + width,40,0,0.8376656465176054,1
+Genomic features + width,41,1,0.8835391480509307,1
+Genomic features + width,42,0,0.12399814061144199,0
+Genomic features + width,43,0,0.06889493055579465,0
+Genomic features + width,44,1,0.5113679749794072,1
+Genomic features + width,45,1,0.8698153162806791,1
+Genomic features + width,46,0,0.03866898398874544,0
+Genomic features + width,47,0,0.03323667873244786,0
+Genomic features + width,48,0,0.25688963668893977,0
+Genomic features + width,49,0,0.9010851279720453,1
+Genomic features + width,50,0,0.017043698344612227,0
+Genomic features + width,51,0,0.02059314375072133,0
+Genomic features + width,52,0,0.04919407915514756,0
+Genomic features + width,53,0,0.07893602324353308,0
+Genomic features + width,54,0,0.2178686460210672,0
+Genomic features + width,55,0,0.3668139342163492,0
+Genomic features + width,56,0,0.09361837558178633,0
+Genomic features + width,57,1,0.3505617776817837,0
+Genomic features + width,58,1,0.4951127803194376,0
+Genomic features + width,59,0,0.05729339682036563,0
+Genomic features + width,60,0,0.13800713754483707,0
+Genomic features + width,61,1,0.9773538377127259,1
+Genomic features + width,62,0,0.06605967068475217,0
+Genomic features + width,63,1,0.9835783834447817,1
+Genomic features + width,64,0,0.09069561464360607,0
+Genomic features + width,65,0,0.5674478573528055,1
+Genomic features + width,66,0,0.1869173113561986,0
+Genomic features + width,67,1,0.8064513581203409,1
+Genomic features + width,68,1,0.3764976102822693,0
+Genomic features + width,69,0,0.09438228801897525,0
+Genomic features + width,70,0,0.6446011257364939,1
+Genomic features + width,71,0,0.15950062739359103,0
+Genomic features + width,72,1,0.9721433088630257,1
+Genomic features + width,73,0,0.7304672640814184,1
+Genomic features + width,74,1,0.08333840341691436,0
+Genomic features + width,75,0,0.031474971905769554,0
+Genomic features + width,76,0,0.34609901749492067,0
+Genomic features + width,77,0,0.12681991547156388,0
+Genomic features + width,78,1,0.6406049696820526,1
+Genomic features + width,79,0,0.04274046989579073,0
+Genomic features + width,80,0,0.05664142947208961,0
+Genomic features + width,81,0,0.2512351430280498,0
+Genomic features + width,82,0,0.497656849382683,0
+Genomic features + width,83,0,0.3762398707729326,0
+Genomic features + width,84,1,0.07236628758689201,0
+Genomic features + width,85,0,0.02152915442790682,0
+Genomic features + width,86,0,0.465324456194483,0
+Genomic features + width,87,0,0.3030247892533163,0
+Genomic features + width,88,1,0.45200491709059437,0
+Genomic features + width,89,0,0.41396870449895873,0
+Genomic features + width,90,0,0.4549284109842573,0
+Genomic features + width,91,1,0.9755214068672852,1
+Genomic features + width,92,0,0.4791111215036909,0
+Genomic features + width,93,0,0.9076250565470882,1
+Genomic features + width,94,0,0.6697717167920205,1
+Genomic features + width,95,1,0.9566168795913885,1
+Genomic features + width,96,0,0.24867678881560787,0
+Genomic features + width,97,0,0.8618858347502703,1
+Genomic features + width,98,0,0.3387009588968816,0
+Genomic features + width,99,0,0.6944913934226382,1
+Genomic features + width,100,0,0.08547639437098785,0
+Genomic features + width,101,1,0.9220252252678828,1
+Genomic features + width,102,0,0.46240271131870275,0
+Genomic features + width,103,0,0.012222250848331995,0
+Genomic features + width,104,0,0.11028212126563791,0
+Genomic features + width,105,0,0.0603356897044495,0
+Genomic features + width,106,0,0.10257163031039208,0
+Genomic features + width,107,0,0.037172211785560676,0
+Genomic features + width,108,0,0.41918035804251175,0
+Genomic features + width,109,0,0.5139609961185749,1
+Genomic features + width,110,0,0.5141407443287304,1
+Genomic features + width,111,1,0.7675514709710753,1
+Genomic features + width,112,0,0.08637535807236038,0
+Genomic features + width,113,0,0.7653081436301128,1
+Genomic features + width,114,0,0.0859668800877957,0
+Genomic features + width,115,0,0.7236586377637503,1
+Genomic features + width,116,1,0.8576859242661479,1
+Genomic features + width,117,0,0.7925523031133911,1
+Genomic features + width,118,0,0.7644890867916754,1
+Genomic features + width,119,0,0.8001904131491426,1
+Genomic features + width,120,0,0.11003705072062975,0
+Genomic features + width,121,0,0.34691899557074485,0
+Genomic features + width,122,1,0.9894369472052126,1
+Genomic features + width,123,0,0.4760610340845096,0
+Genomic features + width,124,0,0.22828569321158246,0
+Genomic features + width,125,1,0.9134742358148793,1
+Genomic features + width,126,0,0.417420293965107,0
+Genomic features + width,127,0,0.025264235212023787,0
+Genomic features + width,128,0,0.5740644222465083,1
+Genomic features + width,129,0,0.12354309423344813,0
+Genomic features + width,130,0,0.16945042106556685,0
+Genomic features + width,131,0,0.4629124514709637,0
+Genomic features + width,132,1,0.00033292437047329615,0
+Genomic features + width,133,1,0.49267648109839307,0
+Genomic features + width,134,0,0.033114867996825025,0
+Genomic features + width,135,0,0.02003688320897,0
+Genomic features + width,136,0,0.20826568777706198,0
+Genomic features + width,137,0,0.20903581807936747,0
+Genomic features + width,138,0,0.13957332106092143,0
+Genomic features + width,139,1,0.8003867641447019,1
+Genomic features + width,140,0,0.023784319092814015,0
+Genomic features + width,141,0,0.03979776977483288,0
+Genomic features + width,142,0,0.8376937622117803,1
+Genomic features + width,143,0,0.29343052445097406,0
+Genomic features + width,144,0,0.14551856285999915,0
+Genomic features + width,145,0,0.36051539083602574,0
+Genomic features + width,146,0,0.03475334576313929,0
+Genomic features + width,147,0,0.03108598287915695,0
+Genomic features + width,148,1,0.68142627326796,1
+Genomic features + width,149,0,0.0980589647104686,0
+Genomic features + width,150,0,0.03166550233464741,0
+Genomic features + width,151,0,0.7946697108993507,1
+Genomic features + width,152,0,0.15205804353627064,0
+Genomic features + width,153,1,0.828224245766657,1
+Genomic features + width,154,0,0.1605437168268136,0
+Genomic features + width,155,0,0.1311950605181517,0
+Genomic features + width,156,1,0.9771641625434536,1
+Genomic features + width,157,1,0.6118803104572896,1
+Genomic features + width,158,0,0.15432895993580278,0
+Genomic features + width,159,0,0.02141638879421598,0
+Genomic features + width,160,1,0.37667973759864576,0
+Genomic features + width,161,1,0.7773939204269948,1
+Genomic features + width,162,0,0.353736296110865,0
+Genomic features + width,163,0,0.08980895280666612,0
+Genomic features + width,164,0,0.17471717755866337,0
+Genomic features + width,165,0,0.07441160681772081,0
+Genomic features + width,166,1,0.9382133750029582,1
+Genomic features + width,167,0,0.04348218760335214,0
+Genomic features + width,168,0,0.08673620599057581,0
+Genomic features + width,169,0,0.09583613463082355,0
+Genomic features + width,170,0,0.04664758045590579,0
+Genomic features + width,171,0,0.6988474931790454,1
+Genomic features + width,172,0,0.17731395687695095,0
+Genomic features + width,173,1,0.3064892848356914,0
+Genomic features + width,174,0,0.11232323380053022,0
+Genomic features + width,175,0,0.009505994122486466,0
+Genomic features + width,176,0,0.0867752184234824,0
+Genomic features + width,177,0,0.010015126730184867,0
+Genomic features + width,178,0,0.1547851606889949,0
+Genomic features + width,179,0,0.12197797096179039,0
+Genomic features + width,180,0,0.045544460901263,0
+Genomic features + width,181,0,0.8952726489138311,1
+Genomic features + width,182,0,0.9999882789974498,1
+Genomic features + width,183,0,0.1528428630148855,0
+Genomic features + width,184,1,0.7813970566054363,1
+Genomic features + width,185,0,0.026468968458055072,0
+Genomic features + width,186,1,0.9908516086350314,1
+Genomic features + width,187,0,0.6994965876223648,1
+Genomic features + width,188,0,0.08305858644274956,0
+Genomic features + width,189,0,0.08683403435594546,0
+Genomic features + width,190,0,0.10302703740654294,0
+Genomic features + width,191,0,0.04233125078798036,0
+Genomic features + width,192,0,0.7840445232076912,1
+Genomic features + width,193,1,0.9661897100864919,1
+Genomic features + width,194,0,0.9617104196339218,1

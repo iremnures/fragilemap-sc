@@ -1,0 +1,20 @@
+model,feature,standardized_log_odds_coefficient,odds_ratio_per_1sd
+Genomic features only,midas,0.9037423327068519,2.468825009268405
+Genomic features only,fancd2,0.1087026526077641,1.1148308090185708
+Genomic features only,lateS_G2M,-0.1185876310057435,0.8881739806672739
+Genomic features only,g_quadruplex,-0.38504197646915694,0.680422073888921
+Genomic features only,ns_seq,-0.1835798337218709,0.832285428642143
+Genomic features only,gro_seq,0.28004306143167756,1.3231867894282001
+Genomic features only,drip_seq,0.5458194462439534,1.7260221854263507
+Genomic features only,ab_compartment,0.07478377910247955,1.077651115000626
+Genomic features only,rt_slope_untreated,-0.061875888842298096,0.9399995439833526
+Genomic features + width,midas,0.9692779281639793,2.6360403614855192
+Genomic features + width,fancd2,0.2938684394691563,1.3416073894757323
+Genomic features + width,lateS_G2M,-0.10814720433165279,0.89749547148495
+Genomic features + width,g_quadruplex,-0.7053192822409324,0.4939508393456071
+Genomic features + width,ns_seq,0.07978462384629292,1.0830537785963161
+Genomic features + width,gro_seq,0.18692533027060576,1.205537264547745
+Genomic features + width,drip_seq,0.6972899906318809,2.0083028067445747
+Genomic features + width,ab_compartment,0.06920453590496516,1.0716553787362577
+Genomic features + width,rt_slope_untreated,-0.34255444914634303,0.7099544619187338
+Genomic features + width,log10_region_width_kb,1.5733070379658582,4.822570274792743

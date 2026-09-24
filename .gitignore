@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Raw supplementary files
+data/raw/*.xlsx
+
+# Large or regenerated outputs
+results/figures/drafts/
+
+# Optional cache
+.cache/
+
+# Old / exploratory figure versions
+results/figures/*.png
+results/figures/*.svg
+
+# Superseded intermediate files
+data/processed/human_break_regions.csv
+data/processed/human_break_regions_crossline_distance.csv
+results/tables/master_results_summary.csv
+results/tables/crossline_recurrence_tests.csv
+results/tables/recurrent_vs_single_rt_tests.csv
+docs/master_results_summary.md

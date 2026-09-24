@@ -1,0 +1,4 @@
+dataset,comparison,n_chromosomes,spearman_rho,p_value
+Autosomes only,U2OS vs RPE1,22,-0.14737436476566912,0.512798661452605
+Autosomes only,U2OS vs BJ,22,-0.3551665725578769,0.10479718977207553
+Autosomes only,RPE1 vs BJ,22,0.1101072840203275,0.6256982903977764
